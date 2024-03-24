@@ -1,6 +1,6 @@
 # Raja Rani Coaching
 Raja Rani Coaching Website
-Welcome to Raja Rani Coaching, a captivating online platform developed for sewing and tailoring enthusiasts as part of the GWOC. Our mission is to redefine the sewing and tailoring exploration experience by offering an immersive digital platform that goes beyond traditional confines. Hosted at website-main-liart.vercel.app, this user-friendly website invites visitors to embark on a journey across various sewing and tailoring techniques.
+Welcome to Raja Rani Coaching, a captivating online platform developed for sewing and tailoring enthusiasts as part of the HTT 2.0. Our mission is to redefine the sewing and tailoring exploration experience by offering an immersive digital platform that goes beyond traditional confines. Hosted at website-main-liart.vercel.app, this user-friendly website invites visitors to embark on a journey across various sewing and tailoring techniques.
 
 ## Specifications
 ### Pages
